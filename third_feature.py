@@ -1,1 +1,1 @@
-print("Hello, Last World!")
+print("Don't forget to like and subscribe!")
