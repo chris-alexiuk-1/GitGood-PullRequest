@@ -1,1 +1,1 @@
-print("And subscribe!")
+print("Don't forget to like!")
