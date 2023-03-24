@@ -1,1 +1,1 @@
-print("Cool changes abound!")
+print("Don't forget to like!")
